@@ -1,0 +1,15 @@
+  3148	Kenneth Reitz
+   610	Cory Benfield
+   352	Nate Prewitt
+   313	Ian Cordasco
+   104	Ian Stapleton Cordasco
+    64	dependabot[bot]
+    45	Shivaram Lingamneni
+    43	Braulio Valdivielso Martínez
+    31	David Pursehouse
+    28	Kevin Burke
+    24	daftshady
+    23	Jérémy Bethmont
+    21	Chase Sterling
+    20	Idan Gazit
+    18	Jon Dufresne
